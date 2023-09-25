@@ -8,10 +8,10 @@
 
 🏫 **EDUCATION**<br>
 2019.03 ~ 2022.02 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 컴퓨터 소프트웨어학과<br>
-**연성대학교** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; 4.0/4.5
+**연성대학교** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; 4.29/4.5
 
 2022.03 ~ 2023.02 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 컴퓨터 소프트웨어공학과<br>
-**동양미래대학교** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4.0/4.5
+**동양미래대학교** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3.65/4.5
 <br>
 <br>
 ***
